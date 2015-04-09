@@ -1,0 +1,19 @@
+@relation test
+
+@attribute t1 numeric
+@attribute t2 numeric
+@attribute t3 numeric
+@attribute t4 numeric
+@attribute t5 numeric
+@attribute t6 numeric
+@attribute t7 numeric
+@attribute t8 numeric
+@attribute t9 numeric
+@attribute t10 numeric
+@attribute O numeric
+
+@data
+450.00,800.30,158.625,3.00,4864.53,490,274970,70629.75,39276,198.94,?
+481.00,1008.35,155.35,4.00,4984.6,325,206702.5,62710.15,19781.88,177.76,?
+511.00,713.51,151.2,5.00,5317.4,44.5,177582.16,67320,16970.794,184.025,?
+542.00,808.05,148.35,6.00,5608.14,30,29812.5,51165.25,15927.794,109.113,?
